@@ -8,7 +8,7 @@
 
 # Notebooks
 
-## [1.: Introduction to transformers]()
+## [1.: Introduction to transformers](https://colab.research.google.com/github/daniel-hain/workshop_london_nlp_2023/blob/main/notebooks/transformers_intro.ipynb)
 
 ## [2.: SBERT and Semantic search](https://colab.research.google.com/github/daniel-hain/workshop_london_nlp_2023/blob/main/notebooks/workshop_sbert_similarity.ipynb)
 
