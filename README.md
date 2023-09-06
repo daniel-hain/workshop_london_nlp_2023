@@ -4,7 +4,7 @@
 
 # Sildes
 
-* [Link to Slide Deck](h[ttps://openai.com/product#made-for-developers](https://docs.google.com/presentation/d/1KUpX_vW1Y4xQL5NJ-GJeWTCtC9SghuCsMpSeNDOynJE/edit?usp=sharing)https://docs.google.com/presentation/d/1KUpX_vW1Y4xQL5NJ-GJeWTCtC9SghuCsMpSeNDOynJE/edit?usp=sharing)
+* [Link to Slide Deck](https://openai.com/product#made-for-developers](https://docs.google.com/presentation/d/1KUpX_vW1Y4xQL5NJ-GJeWTCtC9SghuCsMpSeNDOynJE/edit?usp=sharing)https://docs.google.com/presentation/d/1KUpX_vW1Y4xQL5NJ-GJeWTCtC9SghuCsMpSeNDOynJE/edit?usp=sharing)
 
 # Notebooks
 
