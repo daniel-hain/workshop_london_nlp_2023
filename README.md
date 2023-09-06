@@ -14,7 +14,7 @@
 
 Sentence Transformers are a recent breakthrough in natural language processing that can generate dense, high-quality embeddings of sentences, enabling accurate semantic similarity comparisons between sentences. What makes them particularly exciting for businesses and social science applications is their ability to enable more intuitive, meaningful language-based search, content deduplication, and clustering. With Sentence Transformers, businesses can enhance the accuracy of their search engines, provide more accurate recommendations, and reduce redundancy in content databases. Social science researchers can use Sentence Transformers to identify commonalities between texts and to cluster documents to identify trends and topics in large corpora.
 
-## [2.: LLMs and agents]()
+## [2.: LLMs and agents](https://colab.research.google.com/github/daniel-hain/workshop_london_nlp_2023/blob/main/LMM_vectordb_agents.ipynb)
 
 To follow along [create an OpenAI API key](https://openai.com/product#made-for-developers) and put 1$ on it :)
 
