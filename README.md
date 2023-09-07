@@ -35,5 +35,25 @@ To follow along [create an OpenAI API key](https://openai.com/product#made-for-d
 * [SBERT-Training Tutorial](https://huggingface.co/blog/how-to-train-sentence-transformers)
 * [BERTopic](https://maartengr.github.io/BERTopic/index.html) - a framework for topic modelling with SBERT embeddings
 
+# Own work and ressources
+
+## Publications, Reports & PReprints using Deep NLP
+
+* [Hain, D. S., Jurowetzki, R., Squicciarini, M., & Xu, L. (2023). Unveiling the Neurotechnology Landscape: Scientific Advancements Innovations and Major Trends. UNESCO Report](https://unesdoc.unesco.org/ark:/48223/pf0000386137)
+* [Hain, D., Jurowetzki, R., Lee, S., & Zhou, Y. (2023). Machine learning and artificial intelligence for science, technology, innovation mapping and forecasting: Review, synthesis, and applications. Scientometrics, 128(3), 1465-1472.](https://doi.org/10.1007/s11192-022-04628-8)
+* [Hain, D., Jurowetzki, R., & Squicciarini, M. (2022). Mapping Complex Technologies via Science-Technology Linkages; The Case of Neuroscience--A transformer based keyword extraction approach. arXiv preprint arXiv:2205.10153.](https://arxiv.org/abs/2205.10153)
+* [Bekamiri, H., Hain, D. S., & Jurowetzki, R. (2022). A survey on sentence embedding models performance for patent analysis. arXiv preprint arXiv:2206.02690.](https://arxiv.org/abs/2206.02690)
+* [Hain, D. S., Jurowetzki, R., Buchmann, T., & Wolf, P. (2022). A text-embedding-based approach to measuring patent-to-patent technological similarity. Technological Forecasting and Social Change, 177, 121559.](https://doi.org/10.1016/j.techfore.2022.121559)
+* [Bekamiri, H., Hain, D. S., & Jurowetzki, R. (2021). Patentsberta: A deep nlp based hybrid model for patent distance and classification using augmented sbert. arXiv preprint arXiv:2103.11933.](https://arxiv.org/abs/2103.11933)
+* [Hain, D. S., Jurowetzki, R., Konda, P., & Oehler, L. (2020). From catching up to industrial leadership: towards an integrated market-technology perspective. An application of semantic patent-to-patent similarity in the wind and EV sector. Industrial and Corporate Change, 29(5), 1233-1255.](https://doi.org/10.1093/icc/dtaa021)
+* [Rakas, M., & Hain, D. S. (2019). The state of innovation system research: What happens beneath the surface?. Research Policy, 48(9), 103787.](https://doi.org/10.1016/j.respol.2019.04.011) - Some NLP but not deep, though
+
+## More from us
+
+* [Me on github](https://github.com/daniel-hain)
+* [AI Growth Lab on Github](https://github.com/AI-Growth-Lab)
+* [AI Growth Lab on Huggingface](https://huggingface.co/AAUBS)
+
+
 
 
