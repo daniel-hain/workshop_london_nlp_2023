@@ -18,23 +18,6 @@ Sentence Transformers are a recent breakthrough in natural language processing t
 
 To follow along [create an OpenAI API key](https://openai.com/product#made-for-developers) and put 1$ on it :)
 
-# Further ressources
-
-## Literature and Ressources
-
-### Transformer models generally
-* [Sutskever, I., Vinyals, O., & Le, Q. V. (2014). Sequence to sequence learning with neural networks. Advances in neural information processing systems, 27.](https://proceedings.neurips.cc/paper/5346-sequence-to-sequence-learning-with-neural-)
-* [Vaswani, A., Shazeer, N., Parmar, N., Uszkoreit, J., Jones, L., Gomez, A. N., ... & Polosukhin, I. (2017). Attention is all you need. Advances in neural information processing systems, 30.](https://proceedings.neurips.cc/paper/7181-attention-is-all)
-* [The illustrated transformer](https://jalammar.github.io/illustrated-transformer/)
-* [Simple transformer LM](https://colab.research.google.com/github/jalammar/jalammar.github.io/blob/master/notebooks/Simple_Transformer_Language_Model.ipynb#scrollTo=BstYQU6NkkDA)
-
-### Sbert 
-* OG SBERT-Paper [Reimers, N., & Gurevych, I. (2019). Sentence-bert: Sentence embeddings using siamese bert-networks. arXiv preprint arXiv:1908.10084.](https://arxiv.org/abs/1908.10084)
-* [SBERT Docu](https://www.sbert.net)
-* [NLP with SBERT](https://www.pinecone.io/learn/nlp/) - an ebook/course on the use of dense vectors (with SBERT for business applications)
-* [SBERT-Training Tutorial](https://huggingface.co/blog/how-to-train-sentence-transformers)
-* [BERTopic](https://maartengr.github.io/BERTopic/index.html) - a framework for topic modelling with SBERT embeddings
-
 # Own work and ressources
 
 ## Publications, Reports & PReprints using Deep NLP
@@ -53,6 +36,19 @@ To follow along [create an OpenAI API key](https://openai.com/product#made-for-d
 * [Me on github](https://github.com/daniel-hain)
 * [AI Growth Lab on Github](https://github.com/AI-Growth-Lab)
 * [AI Growth Lab on Huggingface](https://huggingface.co/AAUBS)
+
+# Further Literature and Ressources
+
+## Transformer models generally
+* [Sutskever, I., Vinyals, O., & Le, Q. V. (2014). Sequence to sequence learning with neural networks. Advances in neural information processing systems, 27.](https://proceedings.neurips.cc/paper/5346-sequence-to-sequence-learning-with-neural-)
+* [Vaswani, A., Shazeer, N., Parmar, N., Uszkoreit, J., Jones, L., Gomez, A. N., ... & Polosukhin, I. (2017). Attention is all you need. Advances in neural information processing systems, 30.](https://proceedings.neurips.cc/paper/7181-attention-is-all)
+## Sbert 
+* OG SBERT-Paper [Reimers, N., & Gurevych, I. (2019). Sentence-bert: Sentence embeddings using siamese bert-networks. arXiv preprint arXiv:1908.10084.](https://arxiv.org/abs/1908.10084)
+* [SBERT Docu](https://www.sbert.net)
+* [NLP with SBERT](https://www.pinecone.io/learn/nlp/) - an ebook/course on the use of dense vectors (with SBERT for business applications)
+* [SBERT-Training Tutorial](https://huggingface.co/blog/how-to-train-sentence-transformers)
+* [BERTopic](https://maartengr.github.io/BERTopic/index.html) - a framework for topic modelling with SBERT embeddings
+
 
 
 
