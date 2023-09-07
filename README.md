@@ -2,9 +2,7 @@
 
 ![](https://jalammar.github.io/images/transformer-ber-ulmfit-elmo.png)
 
-# Sildes
-
-* [Link to Slide Deck](https://openai.com/product#made-for-developers](https://docs.google.com/presentation/d/1KUpX_vW1Y4xQL5NJ-GJeWTCtC9SghuCsMpSeNDOynJE/edit?usp=sharing)https://docs.google.com/presentation/d/1KUpX_vW1Y4xQL5NJ-GJeWTCtC9SghuCsMpSeNDOynJE/edit?usp=sharing)
+# [Sildes](https://docs.google.com/presentation/d/1KUpX_vW1Y4xQL5NJ-GJeWTCtC9SghuCsMpSeNDOynJE/edit?usp=sharing)
 
 # Notebooks
 
