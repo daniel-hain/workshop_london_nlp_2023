@@ -10,11 +10,26 @@
 
 ## [1.: Introduction to transformers](https://colab.research.google.com/github/daniel-hain/workshop_london_nlp_2023/blob/main/notebooks/transformers_intro.ipynb)
 
+BERT, introduced by researchers at Google in 2018, is a powerful language model that uses transformer architecture. Pushing the boundaries of earlier model architecture, such as LSTM and GRU, that were either unidirectional or sequentially bi-directional, BERT considers context from both past and future simultaneously. This is due to the innovative “attention mechanism,” which allows the model to weigh the importance of words in a sentence when generating representations.
+
+In this notebook, we will practice the use of BERT for diffeent tasks. Then, we will take a look under the hood and investigate the architecture a bit.
+
 ## [2.: SBERT and Semantic search](https://colab.research.google.com/github/daniel-hain/workshop_london_nlp_2023/blob/main/notebooks/workshop_sbert_similarity.ipynb)
 
 Sentence Transformers are a recent breakthrough in natural language processing that can generate dense, high-quality embeddings of sentences, enabling accurate semantic similarity comparisons between sentences. What makes them particularly exciting for businesses and social science applications is their ability to enable more intuitive, meaningful language-based search, content deduplication, and clustering. With Sentence Transformers, businesses can enhance the accuracy of their search engines, provide more accurate recommendations, and reduce redundancy in content databases. Social science researchers can use Sentence Transformers to identify commonalities between texts and to cluster documents to identify trends and topics in large corpora.
 
+In this notebook, we will practice the use of SBERT mainly for semantic search and semantic similarity tasks.
+
 ## [2.: LLMs and agents](https://colab.research.google.com/github/daniel-hain/workshop_london_nlp_2023/blob/main/LMM_vectordb_agents.ipynb)
+
+Inm this notebook, we will play around a bit with powerful pipelines to:
+
+- Create vectordatabases
+- Perform semanti search over these databases
+- Query LMMs
+- Performing Retrival augmented use of LMMs
+- Using agents to query databases
+  
 
 To follow along [create an OpenAI API key](https://openai.com/product#made-for-developers) and put 1$ on it :)
 
